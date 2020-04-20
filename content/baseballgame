@@ -1,0 +1,7 @@
+                        <p> <a href="/gamestart"><button>START!!!</button></a></p>
+                        <form action="/playgame", method="post">
+                            <p>숫자를 입력하세요 <input type="text", name="number">
+                            <button type="submit">제출</button>
+                            </p>
+
+                        </form>
